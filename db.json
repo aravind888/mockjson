@@ -1,30 +1,30 @@
-const AravindWorks = [
-    {
-        id: 0,
-        title: "Earning Designs",
-        img: "earning-designs",
-        details: "Used Vue js, tween max .., DIgital agency",
-        live: "https://www.earningdesigns.com"
+[
+   {
+        "amount": "$30",
+        "country": "India",
+        "countryCode": "AUS",
+        "city": "Tamilnadu",
+        "action": "selected"
     },
     {
-        id: 1,
-        title: "coadio",
-        img: "coadio",
-        details: "Used Vue js, tween max .., DIgital agency",
-        live: "https://www.earningdesigns.com"
+        "amount": "$30",
+        "country": "United State of America",
+        "countryCode": "CAN",
+        "city": "city2",
+        "action": "selected"
     },
     {
-        id: 2,
-        title: "Wolfswan",
-        img: "coadio",
-        details: "Used Vue js, tween max .., DIgital agency",
-        live: "https://www.earningdesigns.com"
+        "amount": "$30",
+        "country": "Canada",
+        "countryCode": "RUS",
+        "city": "city3",
+        "action": "selected"
     },
     {
-        id: 3,
-        title: "Kompixels",
-        img: "coadio",
-        details: "Used Vue js, tween max .., DIgital agency",
-        live: "https://www.earningdesigns.com"
+        "amount": "$30",
+        "country": "Canada",
+        "countryCode": "USA",
+        "city": "city3",
+        "action": "selected"
     }
 ]
