@@ -1,0 +1,30 @@
+[
+   {
+        "amount": "$30",
+        "country": "India",
+        "countryCode": "AUS",
+        "city": "Tamilnadu",
+        "action": "selected"
+    },
+    {
+        "amount": "$30",
+        "country": "United State of America",
+        "countryCode": "CAN",
+        "city": "city2",
+        "action": "selected"
+    },
+    {
+        "amount": "$30",
+        "country": "Canada",
+        "countryCode": "RUS",
+        "city": "city3",
+        "action": "selected"
+    },
+    {
+        "amount": "$30",
+        "country": "Canada",
+        "countryCode": "USA",
+        "city": "city3",
+        "action": "selected"
+    }
+]
